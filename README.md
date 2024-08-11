@@ -1,4 +1,5 @@
-![01 Banner - Nuno Rodrigues](https://github.com/user-attachments/assets/79786c67-d61a-4dde-b5c8-6866aa682fd1)
+
+![01 GiHub banner - Nuno Violante Rodrigues](https://github.com/user-attachments/assets/b2797e6c-6f0e-4465-ab30-cd6907749a5f)
 
 ## Nuno Rodrigues' Github Profile. 
 Performant code, Beautiful apps.
@@ -7,7 +8,8 @@ As a Full-Stack Developer specializing in the JavaScript ecosystem, I help build
 
 I bring a positive, motivational spirit to the teams I collaborate with. Committed to lifelong learning and ambitious about both personal and team success, I know that together, we can build greatness.
 
-Let’s connect!
+Let's connect!
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVR-2023&show_icons=true&theme=transparent)
