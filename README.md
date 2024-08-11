@@ -1,8 +1,9 @@
 
 ![01 GiHub banner - Nuno Violante Rodrigues](https://github.com/user-attachments/assets/b2797e6c-6f0e-4465-ab30-cd6907749a5f)
 
-## Nuno Rodrigues' Github Profile. 
-Performant code, Beautiful apps.
+## Nuno Violante Rodrigues' Github Profile. 
+## Performant code, Beautiful apps.
+![Status: Active](https://img.shields.io/badge/Status-Active-green)
 
 As a Full-Stack Developer specializing in the JavaScript ecosystem, I help build apps that businesses can rely on and users delight in. From robust Node.js backends and REST APIs to responsive and animated React UIs, I deliver—on time and beyond expectations.
 
