@@ -17,4 +17,4 @@ Let's connect!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVR-2023&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!NOTE]
-> Top repositories follow.
+> Top repositoriesÇ:
