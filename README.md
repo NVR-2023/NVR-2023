@@ -1,5 +1,5 @@
 
-![01 GiHub banner - Nuno Violante Rodrigues](https://github.com/user-attachments/assets/b2797e6c-6f0e-4465-ab30-cd6907749a5f)
+![03 - email banner](https://github.com/user-attachments/assets/4505883d-536a-4379-8b98-741d3856400d)
 
 ## Nuno Violante Rodrigues' Github Profile. 
 Performant code, Beautiful apps.
