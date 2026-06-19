@@ -1,5 +1,5 @@
+<img width="1139" height="303" alt="wide" src="https://github.com/user-attachments/assets/3f66ab2c-6245-4849-8d81-7166f3c6d8a1" />
 
-![03 - email banner](https://github.com/user-attachments/assets/4505883d-536a-4379-8b98-741d3856400d)
 
 ## Nuno Violante Rodrigues' Github Profile. 
 
