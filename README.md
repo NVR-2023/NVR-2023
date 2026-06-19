@@ -1,5 +1,4 @@
-<img width="1139" height="303" alt="wide" src="https://github.com/user-attachments/assets/3f66ab2c-6245-4849-8d81-7166f3c6d8a1" />
-
+<img width="4556" height="1210" alt="wide" src="https://github.com/user-attachments/assets/ee1919e5-6bad-40b7-99d8-6cb7d97eb0ab" />
 
 ## Nuno Violante Rodrigues' Github Profile. 
 
