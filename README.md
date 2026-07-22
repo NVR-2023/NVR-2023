@@ -2,7 +2,7 @@
 
 ## Nuno Violante Rodrigues' Github Profile. 
 
-Full-Stack Developer specializing in the JavaScript ecosystem
+Full-Stack Developer specializing in the Typescript ecosystem
 
 As a team member, I help develop full-stack applications that businesses can depend on and users delight in. With experience in React UIs, REST APIs, Node.js backends, and SQL/NoSQL databases, I ensure timely, high-quality delivery. I bring a positive, uplifting spirit to the workplace and am committed to continuous learning, with the ambition to achieve success for both myself and the team.
 
