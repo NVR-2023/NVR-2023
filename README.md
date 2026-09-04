@@ -1,4 +1,4 @@
-<img width="4556" height="1210" alt="wide" src="https://github.com/user-attachments/assets/ee1919e5-6bad-40b7-99d8-6cb7d97eb0ab" />
+<img width="4556" height="1210" alt="Linedin profile banner" src="https://github.com/user-attachments/assets/70ca6335-ee3a-4a24-a772-34225596269e" />
 
 ## Nuno Violante Rodrigues' Github Profile. 
 
